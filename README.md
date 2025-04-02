@@ -7,7 +7,7 @@ This project analyzes how different factors affect Airbnb pricing across the **t
 
 We applied a hedonic pricing model to identify which attributes (e.g., number of bedrooms, bathrooms, review scores, amenities) significantly impact Airbnb prices.
 
----
+
 
 ## 📊 Project Summary
 
@@ -17,7 +17,7 @@ We applied a hedonic pricing model to identify which attributes (e.g., number of
 - **Timeframe**: 2021–2023 (Post-COVID)
 - **Methodology**: Linear Regression, Target Transformation, Residual & Multicollinearity Analysis
   
----
+
 
 ## 🔍 Key Analysis Steps
 
@@ -30,7 +30,7 @@ We applied a hedonic pricing model to identify which attributes (e.g., number of
   - ✅ No multicollinearity (via VIF)
 - Identified **positively and negatively influential** variables on pricing
 
----
+
 
 ## 💡 Insights
 
@@ -46,7 +46,7 @@ We applied a hedonic pricing model to identify which attributes (e.g., number of
 - On-premise parking (!)
 - Shared room type
 
----
+
 
 ## License
 - This project is open-source and can be modified or redistributed under the appropriate licensing agreement.
