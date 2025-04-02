@@ -43,7 +43,7 @@ We applied a hedonic pricing model to identify which attributes (e.g., number of
 ### 📉 Negatively Influencing Factors
 - Minimum nights
 - Host response rate
-- On-premise parking (!)
+- On-premise parking 
 - Shared room type
 
 
