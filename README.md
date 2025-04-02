@@ -48,7 +48,3 @@ We applied a hedonic pricing model to identify which attributes (e.g., number of
 
 ---
 
-## 📌 Final Regression Model
-
-```math
-log(Price) = β0 + β1Accommodates + β2Bathrooms + β3Bedrooms + β4Beds + ... + βnElevator
